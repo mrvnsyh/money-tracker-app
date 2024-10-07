@@ -50,7 +50,7 @@ The **Money Tracker and Management System** is an Android mobile app designed to
 ## Flowchart System Design 
 <img src="https://github.com/user-attachments/assets/057cccac-fada-48cb-aef6-fe3489892396" alt="Flowchart" width="400"/>
 
-## Project 
+## Project Screenshots
 
 <img src="https://github.com/user-attachments/assets/485d5929-e29f-4fff-9048-18dafc799527" alt="Screenshot 1" width="200"/>
 <img src="https://github.com/user-attachments/assets/3967653c-609e-4a17-94aa-e8978996047c" alt="Screenshot 2" width="200"/>
