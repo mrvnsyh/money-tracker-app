@@ -48,11 +48,10 @@ The **Money Tracker and Management System** is an Android mobile app designed to
 - Use the app to add, view, update, or delete financial transactions.
 
 ## Flowchart System Design 
-<img src="https://github.com/user-attachments/assets/76420a45-e76a-4c4f-9331-43ef0fa74df9" alt="Flowchart Add" width="200"/>
-<img src="https://github.com/user-attachments/assets/619e84a0-f5d2-4318-a0aa-5e17e4108d70" alt="Flowchart Update and Delete" width="200"/>
-<img src="https://github.com/user-attachments/assets/e6706dfa-0b1e-411f-9552-5b8246146d9d" alt="Flowchart Main" width="200"/>
+<img src="https://github.com/user-attachments/assets/057cccac-fada-48cb-aef6-fe3489892396" alt="Flowchart" width="400"/>
 
 ## Project Review
+
 <img src="https://github.com/user-attachments/assets/485d5929-e29f-4fff-9048-18dafc799527" alt="Screenshot 1" width="200"/>
 <img src="https://github.com/user-attachments/assets/3967653c-609e-4a17-94aa-e8978996047c" alt="Screenshot 2" width="200"/>
 <img src="https://github.com/user-attachments/assets/0b66789e-8571-45ea-8080-23d3e4b900ca" alt="Screenshot 3" width="200"/>
