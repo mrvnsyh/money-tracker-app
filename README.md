@@ -48,11 +48,12 @@ The **Money Tracker and Management System** is an Android mobile app designed to
 - Use the app to add, view, update, or delete financial transactions.
 
 ## Project Review
+![Screenshot 2023-05-18 085728-min](https://github.com/user-attachments/assets/485d5929-e29f-4fff-9048-18dafc799527)
+![Screenshot 2023-05-18 085742-min](https://github.com/user-attachments/assets/3967653c-609e-4a17-94aa-e8978996047c)
+![Screenshot 2023-05-18 091009-min](https://github.com/user-attachments/assets/0b66789e-8571-45ea-8080-23d3e4b900ca)
+![Screenshot 2023-05-18 091023-min](https://github.com/user-attachments/assets/d93b3666-17c4-487d-aed0-919ccaf21c1a)
+![Screenshot 2023-05-18 091043-min](https://github.com/user-attachments/assets/b06207c9-2abb-47ee-b890-399e049db9de)
+![Screenshot 2023-05-18 085658-min](https://github.com/user-attachments/assets/ed0518ba-c5c3-4e35-a842-1db2adc47d81)
+![Screenshot 2023-05-18 085712-min](https://github.com/user-attachments/assets/6d4ef7ce-d9ad-4545-a178-1c16a1791dd5)
 
-![Screenshot 2023-05-18 085742](https://github.com/user-attachments/assets/d372c143-ca3a-40a6-ad19-3eff5f418d98)
-![Screenshot 2023-05-18 085728](https://github.com/user-attachments/assets/37c9db68-0b1b-440a-85ce-ed48c1512218)
-![Screenshot 2023-05-18 085712](https://github.com/user-attachments/assets/18b2748c-b40d-40be-9343-c933bd67e78e)
-![Screenshot 2023-05-18 085658](https://github.com/user-attachments/assets/97a3ec20-17d8-4221-bc9e-158681e01adf)
-![Screenshot 2023-05-18 091043](https://github.com/user-attachments/assets/6656fbf1-f801-4c92-945f-7523e3fdbbcf)
-![Screenshot 2023-05-18 091023](https://github.com/user-attachments/assets/86c0bdd5-e3c1-4792-8ae0-c778785aa67c)
-![Screenshot 2023-05-18 091009](https://github.com/user-attachments/assets/02c7fc65-6551-4acf-aee1-4fd59cb90d7d)
+
